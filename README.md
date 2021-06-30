@@ -1,4 +1,4 @@
-# test
+# My First Simple Web App on Vue Framework for JS
 
 ## Project setup
 ```
